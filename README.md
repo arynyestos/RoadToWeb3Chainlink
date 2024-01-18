@@ -32,7 +32,7 @@ Although in Alchemy University's tutorial Remix was used, for this project we pr
 After the contract is deployed using the deploy script, we must add it as a consumer to the VRF subscription:
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/bc0e3493-3ba0-4d40-a9ac-d8a67b1672cd" style="width: 30vw;">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/bc0e3493-3ba0-4d40-a9ac-d8a67b1672cd" style="width: 60vw;">
 </p>
 
 Once this is done, we configure the upkeep with the contract's address and the function we want to automate. Once all Chainlink services are correctly set up, we mint an NFT to our address, defaulting to the Gamer Bull NFT, which we could see at the OpenSea Testnet site:
@@ -44,7 +44,7 @@ Once this is done, we configure the upkeep with the contract's address and the f
 Then the upkeep will initiate the modification of the NFT's metadata, according to the trend of Bitcoin's price in the selected interval. As we can see, the price went down, since the NFT switched to Simple Bear:
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/6229f568-396e-4fba-8984-8f34713262ca">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/6229f568-396e-4fba-8984-8f34713262ca" style="width: 30vw;">
 </p>
 
 After another interval, we can see, both in Etherscan and OS how the metadata changes to Coolio Bear, as the price of Bitcoin kept on a downward trend:

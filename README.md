@@ -38,7 +38,7 @@ After the contract is deployed using the deploy script, we must add it as a cons
 Once this is done, we configure the upkeep with the contract's address and the function we want to automate. Once all Chainlink services are correctly set up, we mint an NFT to our address, defaulting to the Gamer Bull NFT, which we could see at the OpenSea Testnet site:
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/fb535feb-e99f-4c72-9d71-c7a1442a6d31)">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/fb535feb-e99f-4c72-9d71-c7a1442a6d31)" style="width: 50vw;">
 </p>
 
 Then the upkeep will initiate the modification of the NFT's metadata, according to the trend of Bitcoin's price in the selected interval. As we can see, the price went down, since the NFT switched to Simple Bear:
@@ -50,11 +50,11 @@ Then the upkeep will initiate the modification of the NFT's metadata, according 
 After another interval, we can see, both in Etherscan and OS how the metadata changes to Coolio Bear, as the price of Bitcoin kept on a downward trend:
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/4cd1f817-77f8-42ec-a7de-a561ea4eb7ac">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/4cd1f817-77f8-42ec-a7de-a561ea4eb7ac" style="width: 30vw;">
 </p>
 
 However, OS didn't update the metadata fast enough, showing only the name of the modified NFT, which as a known behaviour:
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/6d82e8e1-d2a1-4178-bfee-e18374cee33d">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/6d82e8e1-d2a1-4178-bfee-e18374cee33d" style="width: 30vw;">
 </p>

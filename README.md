@@ -14,7 +14,7 @@ On the fifth project of the Road to Web 3 program we leveraged three of Chainlin
 The Bull & Bear NFTs change their metadata in a set interval thanks to Chainlink [Automation](https://automation.chain.link/), according to the change in price of a chosen asset, in our case, Bitcoin, which is made possible by Chainlink's [price feeds](https://docs.chain.link/data-feeds/price-feeds). Also, there are three different images both for bears and bulls, as you can see below. In order to select one of them at random when the Bitcoin price trend changes, we used Chainlink [VRF](https://vrf.chain.link/).
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/e1319857-076f-4b19-90eb-6b92fe5e6396" style="width: 50vw;">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/e1319857-076f-4b19-90eb-6b92fe5e6396" style="width: 10vw;">
 </p>
 
 ## Technology Stack

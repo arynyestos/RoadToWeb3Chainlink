@@ -32,7 +32,7 @@ Although in Alchemy University's tutorial Remix was used, for this project we pr
 After the contract is deployed using the deploy script, we must add it as a consumer to the VRF subscription:
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/bc0e3493-3ba0-4d40-a9ac-d8a67b1672cd" style="width: 60vw;">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/bc0e3493-3ba0-4d40-a9ac-d8a67b1672cd" style="width: 80vw;">
 </p>
 
 Once this is done, we configure the upkeep with the contract's address and the function we want to automate. Once all Chainlink services are correctly set up, we mint an NFT to our address, defaulting to the Gamer Bull NFT, which we could see at the OpenSea Testnet site:

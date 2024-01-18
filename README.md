@@ -50,7 +50,7 @@ Then the upkeep will initiate the modification of the NFT's metadata, according 
 After another interval, we can see, both in Etherscan and OS how the metadata changes to Coolio Bear, as the price of Bitcoin kept on a downward trend:
 
 <p align="center">
-  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/4cd1f817-77f8-42ec-a7de-a561ea4eb7ac" style="width: 30vw;">
+  <img src="https://github.com/arynyestos/RoadToWeb3Chainlink/assets/33223441/d930276a-8008-4065-bae1-55e751c314fe" style="width: 30vw;">
 </p>
 
 However, OS didn't update the metadata fast enough, showing only the name of the modified NFT, which as a known behaviour:
